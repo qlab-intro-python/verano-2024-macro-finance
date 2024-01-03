@@ -53,9 +53,9 @@ La evaluación consiste en cuatro tareas y un trabajo final.
 
 |Fecha|Temas|Subtemas|
 |---|---|---|
-3 de enero |  Github & Python <br> Objetos básicos & NumPy  | • Installation<br> • Branches<br> • Repository <br> • Lists<br> • Dictionaries<br> • NumPy   |
-5 de enero | Pandas| • Series <br> • Indexing<br> • Importing Data <br> • Data wrangling  |
-9 de enero |  Control Structures<br>Functions<br>Classes | <br> •  If condition <br> •  For loop<br> •  While Loop<br> •  Function Definitions <br> •  *args and **kwwargs <br> •  \_init_<br> •  Attributes and Methods    |
+3 de enero |  Github & Python <br> Objetos básicos   | • Installation<br> • Branches<br> • Repository <br> • Lists <br> • Dictionaries  |
+5 de enero | Pandas & NumPy| • NumPy <br>• Series <br> • Indexing<br> • Importing Data <br> • Data wrangling  |
+9 de enero |  Control Structures<br>Functions<br>Classes | •  If condition <br> •  For loop<br> •  While Loop<br> •  Function Definitions <br> •  *args and **kwwargs <br> •  \_init_<br> •  Attributes and Methods    |
 10 de enero| APIs| <br> • Google Directions<br> • Geolocation<br> • Finance APIs   |
 12 de enero| NLP| <br> •  GPT-4 <br> •  Transformers |
 
