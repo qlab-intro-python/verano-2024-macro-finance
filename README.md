@@ -66,8 +66,8 @@ La evaluación consiste en cuatro tareas y un trabajo final.
 |1|Mateo Podesta Alvarado |  Marco Gregorio Bravo|
 |2|Elias Gomez Huamani |  Gustavo Torres Flores|
 |3|Angel Rojas Chavez |  Anghely Lozano Rojas|
-|4|Luis Cahuana Bautista | Jorge Dongo Gutierrez |
-|5|Joshua Quispe Vazquez |  |
+|4|Joshua Quispe Vazquez | Jorge Dongo Gutierrez |
+|5| Luis Cahuana Bautista |  |
 |6|Patricia Mendoza Arce |  Jakelin Remon Godoy|
 |7|Piero Fernandez Davila Velazco |  Rafael Vilca Romero|
 |8|Adriana Torres Quiroz |  Néstor Canales Anyosa|
