@@ -110,7 +110,7 @@ En GitHub, nuestros desarrolladores, escritores y diseñadores utilizan ramas pa
 
 1. Ahora tiene dos branches, `main` y `readme-edits`. Ahora mismo, se ven idénticas. A continuación, agregarás cambios al nuevo branch
 
-## 3. Realizar y confirmar (commit) cambios
+#### 3. Realizar y confirmar (commit) cambios
 
 Al crear el nuevo branch en el paso previo, GitHub te lleva a la página de código del nuevo branch `readme-edits`, que es una copia de `main`.
 
@@ -166,7 +166,7 @@ En este paso final, fusionará (merge) el branch `readme-edits` con el branch `m
 
 1. Haga clic en `Delete branch`. Ahora que la solicitud de incorporación de cambios se ha combinado y los cambios están en `main`, puede eliminar el branch `readme-edits` de forma segura. Si quieres hacer más cambios a tu proyecto, siempre puedes crear un nuevo branch y repetir este proceso.
 
-### 6. Clonar un repo<sup>[2](#myfootnote2)</sup>
+#### 6. Clonar un repo<sup>[2](#myfootnote2)</sup>
 
 Al clonar un repo, descargas el repo desde GitHub.com a tu máquina local. Esto facilita la corrección de conflictos de combinación, agregar o quitar archivos e insertar comentarios más grandes. 
 
@@ -175,6 +175,18 @@ Clonar un repo extrae una copia integral de todos los datos del repo que GitHub.
 Puedes clonar tu repo existente o clonar el repo existente de alguien más para contribuir con un proyecto.
 
 <a name="myfootnote2">[2]</a> Para mayor información sobre clonar un repo en diferentes OS (Mac, Windows, Linux), revisar la [documentación de GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+
+#### 7. Probemos clonando el repo de una tarea ficticia de Intro a GitHub
+
+- Al finalizar la clase de hoy estará disponible la Tarea Nº 1 en Canvas, la cual deberá ser entregada hasta las 11:59pm del jueves 4 de enero de 2024
+
+- En Canvas, se activará el link para el repo de la tarea. Dicho link será parecido a este https://classroom.github.com/a/A1TvRWfw
+
+- Le damos click, ubicamos nuestro nombre y luego vamos a "Accept this assignment"
+
+- Se creará un repo con tu usuario de Github al final
+
+- Usemos este repo para practicar! 
 
 
 ## B. Python
@@ -185,9 +197,9 @@ Según el [índice TIOBE](https://www.tiobe.com/tiobe-index/) a julio de 2023, P
 
 <div> <img src="https://images.datacamp.com/image/upload/v1688732584/image_bcd7581290.png" max-width="600"/> </div>
 
-## 2. Instalar Python y Jupyter
+### 2. Instalar Python y Jupyter
 
-### miniconda
+#### miniconda
 
 - Existen diversas alternativas para obtener Python. Para simplificar, se propone usar **miniconda**, que es un package manager y un environment manager. 
 
