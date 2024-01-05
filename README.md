@@ -77,7 +77,7 @@ La evaluación consiste en cuatro tareas y un trabajo final.
 
 ## 10. Recursos adicionales
 
-1. Videos tutorialess
+1. Videos tutoriales
 - https://www.youtube.com/watch?v=zyGfECfJ9BY
 - https://www.youtube.com/watch?v=K5xImVmm2Ds
 
